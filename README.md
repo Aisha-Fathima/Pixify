@@ -21,7 +21,7 @@
 
 ## Demo
 
-![Demo Screenshot](path/to/screenshot.png)
+![Screenshot](images/ss1.png)
 
 
 
