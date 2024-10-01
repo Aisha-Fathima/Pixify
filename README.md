@@ -21,7 +21,20 @@
 
 ## Demo
 
+
+### 1. Initial view of the website
 ![Screenshot](images/ss1.png)
+
+&nbsp;
+
+### 2. Customized filter settings
+![Screenshot](images/ss2.png)
+
+&nbsp;
+
+### 3. Applying a random filter
+![Screenshot](images/ss3.png)
+
 
 
 
