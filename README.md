@@ -42,13 +42,13 @@
 
 You can adjust the following filters by moving the sliders:
 
-- **Brightness**: Ranges from 0% to 200%
-- **Contrast**: Ranges from 0% to 200%
-- **Saturation**: Ranges from 0% to 200%
-- **Opacity**: Ranges from 0% to 100%
-- **Grayscale**: Ranges from 0% to 100%
-- **Sepia**: Ranges from 0% to 100%
-- **Blur**: Ranges from 0px to 10px
+- 🌞**Brightness**: Ranges from 0% to 200%
+- 🌈**Contrast**: Ranges from 0% to 200%
+- 🎨**Saturation**: Ranges from 0% to 200%
+- 🌫️**Opacity**: Ranges from 0% to 100%
+- ⚫**Grayscale**: Ranges from 0% to 100%
+- 🟤**Sepia**: Ranges from 0% to 100%
+- 🌁**Blur**: Ranges from 0px to 10px
 
 You can also:
 
@@ -98,8 +98,4 @@ Once the page is open in the browser, you'll see the sample image and sliders fo
 - **HTML5**: For webpage structure.
 - **CSS3**: For styling the page and user interface.
 - **JavaScript**: For handling image filters and user interactions.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
